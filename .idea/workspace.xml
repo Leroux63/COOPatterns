@@ -5,7 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0640ec9e-aff1-4671-8917-01fecbce6816" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Factory/concreteProducts/IphoneX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Factory/concreteProducts/IphoneX.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Factory/abstractFactory/SmartphoneFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Factory/concreteFactory/GalaxyS21Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Factory/concreteFactory/GalaxyZFlipFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Factory/concreteFactory/IphoneXFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Factory/concreteProducts/GalaxyS21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Factory/concreteProducts/GalaxyZFlip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Factory/concreteProducts/IphoneX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Factory/interfaces/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/interfaces/Readable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/model/Livre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/model/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/singleton/LoggerSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/utils/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/utils/ImpThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/utils/ThreadConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/HibernateUtil.cfg.xml" afterDir="false" />
+>>>>>>> 1db3ccb (make Singleton and Catory patterns)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +71,10 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+<<<<<<< HEAD
     "nodejs_package_manager_path": "npm",
+=======
+>>>>>>> 1db3ccb (make Singleton and Catory patterns)
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -58,7 +91,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693296502480</updated>
+<<<<<<< HEAD
       <workItem from="1693296503577" duration="18701000" />
+=======
+      <workItem from="1693296503577" duration="15667000" />
+>>>>>>> 1db3ccb (make Singleton and Catory patterns)
     </task>
     <servers />
   </component>
