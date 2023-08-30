@@ -15,7 +15,7 @@ public class IphoneX implements Smartphone {
 
     @Override
     public void Appeler() {
-        System.out.println("Iphone X appel");
+        System.out.println("Iphone X appelle");
     }
 
     @Override
