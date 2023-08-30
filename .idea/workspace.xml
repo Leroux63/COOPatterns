@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0640ec9e-aff1-4671-8917-01fecbce6816" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c2eece36-a407-4743-aff9-8ab344ae7841.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c2eece36-a407-4743-aff9-8ab344ae7841.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Decorator/concrete_component/SimpleCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Decorator/concrete_component/SimpleCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Decorator/concrete_decorator/FourWheelDriveDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Decorator/concrete_decorator/GpsDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Decorator/concrete_decorator/MilkDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Decorator/concrete_decorator/SugarDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Decorator/decorator/CarDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Decorator/decorator/CoffeeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Decorator/interfaces/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Decorator/interfaces/Coffee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Builder/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Builder/PokemonsBuilder/CarapuceBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Builder/PokemonsBuilder/CarapuceBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Builder/PokemonsBuilder/PikachuBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Builder/PokemonsBuilder/PikachuBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Builder/PokemonsBuilder/SalamecheBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Builder/PokemonsBuilder/SalamecheBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Builder/models/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/hb/dl/Builder/models/Pokemon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
