@@ -30,4 +30,13 @@ public class Pokemon {
     public void setNiveau(int niveau) {
         this.niveau = niveau;
     }
+
+    @Override
+    public String toString() {
+        return "Pokemon{" +
+                "nom='" + nom + '\'' +
+                ", type='" + type + '\'' +
+                ", niveau=" + niveau +
+                '}';
+    }
 }

@@ -5,7 +5,7 @@ import fr.hb.dl.Builder.models.Pokemon;
 
 public class PikachuBuilder implements PokemonBuilder {
 
-    Pokemon pikachu = new Pokemon();
+    private Pokemon pikachu = new Pokemon();
     @Override
     public void buildPokemonName(String nom) {
         pikachu.setNom(nom);

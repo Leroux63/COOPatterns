@@ -16,14 +16,14 @@ public class Main {
         PokemonDirector director = new PokemonDirector();
         director.constructSalameche(salamecheBuilder);
         Pokemon salameche = salamecheBuilder.getResult();
-        System.out.println(salameche.getNom());
+        System.out.println(salameche);
 
         director.constructCarapuce(carapuceBuilder);
         Pokemon carapuce = carapuceBuilder.getResult();
-
+        System.out.println(carapuce);
 
         director.constructPikachu(pikachuBuilder);
         Pokemon pikachu = pikachuBuilder.getResult();
-
+        System.out.println(pikachu);
     }
 }

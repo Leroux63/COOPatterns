@@ -5,7 +5,7 @@ import fr.hb.dl.Builder.models.Pokemon;
 
 public class SalamecheBuilder implements PokemonBuilder {
 
-    Pokemon salameche = new Pokemon();
+    private Pokemon salameche = new Pokemon();
     @Override
     public void buildPokemonName(String nom) {
         salameche.setNom(nom);
